@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "--file c:\\learn\\psdata\\in\\data1.txt"
+    }
+  }
+}
